@@ -1,0 +1,4 @@
+<config>
+  <item key="channel" value="<Channel name>" />
+	<item key="key" value="<YouTube Data API key>" />
+</config>
